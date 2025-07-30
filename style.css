@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+ul li {
+  list-style: none;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.jadoo-logo {
+  width: 114px;
+  height: 33.99px;
+}
+
+.navbar-ul li a {
+  font-size: 17px;
+  color: #212832;
+  font-family: "Poppins", sans-serif;
+}
+.button-sign-up {
+  width: 102px;
+  height: 40;
+  border-radius: 5px;
+  border: 1px solid #212832;
+  font-size: 17px;
+  color: #212832;
+  font-family: "Poppins", sans-serif;
+}
+.best-destinations-text {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  color: #df6951;
+  text-transform: uppercase;
+}
+.travel-enjoy {
+  font-family: "Volkhov", serif;
+  font-size: 84px;
+  line-height: 89px;
+  color: #181e4b;
+  letter-spacing: -4%;
+}
+.built-wicket-text {
+  line-height: 30px;
+  color: #5e6282;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+.traveller {
+  height: 764px;
+  width: 765px;
+}
+.find-out-more-button {
+  width: 174px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #f1a501;
+  border: 2px solid #f1a501;
+}
+.play-demo {
+  width: 165px;
+  height: 102px;
+}
+.category-title {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: #5e6282;
+}
+.calculated-weather {
+  width: 92px;
+  height: 78px;
+}
+.we-offer-best-services {
+  font-family: "Volkhov", serif;
+  font-size: 50px;
+  color: #14183e;
+}
+.title-image {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  color: #1e1d4c;
+}
+.image-text {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #5e6282;
+}
+.navigation-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.easy-and-fast-image {
+  width: 47px;
+  height: 48px;
+}
+.easy-and-fast-title {
+  font-size: 18px;
+  color: #5e6282;
+  font-family: "Poppins", sans-serif;
+}
+.book-your-next-trip {
+  color: #14183e;
+  font-size: 50px;
+  font-family: "Volkhov", serif;
+}
+.testimonials {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  color: #5e6282;
+}
+.about-us {
+  font-size: 50px;
+  font-family: "Volkhov", serif;
+  color: #14183e;
+}
+.about-us-image {
+  width: 87px;
+  height: 12px;
+}
+.mike-taylo-image {
+  width: 68px;
+  height: 68px;
+}
+.painted-text {
+  font-size: 16px;
+  color: #5e6282;
+  line-height: 32px;
+  font-family: "Poppins", sans-serif;
+}
+.mike-taylor {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: #14183e;
+}
+.chris-thomas {
+  color: #5e6282;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+.ceo-of-red {
+  color: #5e6282;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+.pagination {
+  width: 14px;
+  height: 71.5px;
+}
+.items {
+  background-image: url("/images/Rectangle\ 164.png");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.centered-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.subscribe {
+  border-radius: 10px;
+  background-color: #ff7d68;
+  width: 180px;
+  height: 68px;
+  border: 2px solid #ff7d68;
+}
+.footer-jadoo {
+  color: #181e4b;
+  font-size: 44px;
+  font-family: "Poppins", sans-serif;
+}
+.book-your-trip {
+  color: #5e6282;
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+}
+.footer-title {
+  font-size: 21px;
+  font-family: "Poppins", sans-serif;
+  color: #080809;
+  line-height: 125%;
+}
+.footer-list li a {
+  font-size: 18px;
+  color: #5e6282;
+  line-height: 125%;
+  font-family: "Poppins", sans-serif;
+}
+.social-media-icons {
+  width: 177px;
+  height: 45px;
+}
+.discover-our-app {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 0.5%;
+  color: #5e6282;
+}
+.copy-right {
+  line-height: 125%;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  color: #5e6282;
+}
